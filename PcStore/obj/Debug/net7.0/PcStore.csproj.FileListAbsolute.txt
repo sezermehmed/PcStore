@@ -1,0 +1,15 @@
+C:\Users\sezer\source\repos\PcStore\PcStore\bin\Debug\net7.0\PcStore.exe
+C:\Users\sezer\source\repos\PcStore\PcStore\bin\Debug\net7.0\PcStore.deps.json
+C:\Users\sezer\source\repos\PcStore\PcStore\bin\Debug\net7.0\PcStore.runtimeconfig.json
+C:\Users\sezer\source\repos\PcStore\PcStore\bin\Debug\net7.0\PcStore.dll
+C:\Users\sezer\source\repos\PcStore\PcStore\bin\Debug\net7.0\PcStore.pdb
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.csproj.AssemblyReference.cache
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.AssemblyInfoInputs.cache
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.AssemblyInfo.cs
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.csproj.CoreCompileInputs.cache
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.dll
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\refint\PcStore.dll
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.pdb
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.genruntimeconfig.cache
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\ref\PcStore.dll
