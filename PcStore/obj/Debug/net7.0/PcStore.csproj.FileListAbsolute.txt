@@ -13,3 +13,5 @@ C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\refint\PcStore.dll
 C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.pdb
 C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.genruntimeconfig.cache
 C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\ref\PcStore.dll
+C:\Users\sezer\source\repos\PcStore\PcStore\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\sezer\source\repos\PcStore\PcStore\obj\Debug\net7.0\PcStore.csproj.CopyComplete

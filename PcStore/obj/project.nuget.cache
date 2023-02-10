@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qD4pL/tQ2QP20Pz3e6q79cDeD787GXOhxFEhFjuHpFa5pDFaeCHf0E6lNpofT1v5tZC+SJtCpJPDufyvo6fLiw==",
+  "dgSpecHash": "iOCg1lfE5pJy39hWx7WnpWNMnWDUEtQ4JJpvik07dHBErBZknSpezEG1uaAHxHxD+nN33k6DVuvHoO/NfAQb+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\sezer\\source\\repos\\PcStore\\PcStore\\PcStore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sezer\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
